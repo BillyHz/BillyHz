@@ -49,7 +49,7 @@ Developer by craft, pentester by curiosity. Building [StarTap](https://startap.l
 
 ### Reach out
 
-[![Email](https://img.shields.io/badge/Email-billy.hernandez.bhs@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:billy.hernandez.bhs@gmail.com)
+[![Email](https://img.shields.io/badge/Email-billyhz@proton.me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:billyhz@proton.me)
 [![StarTap](https://img.shields.io/badge/StarTap-startap.lat-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://startap.lat)
 [![GitHub](https://img.shields.io/badge/GitHub-@BillyHz-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/BillyHz)
 

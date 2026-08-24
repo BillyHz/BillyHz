@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=45&lines=Construyendo+con+Next.js;Aprendiendo+CCNP+%F0%9F%93%9D;Durmiendo+como+Snorlax" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=45&lines=Building+with+Next.js;Learning+CCNP+%F0%9F%93%9D;Sleeping+like+Snorlax" alt="Typing SVG" />
   <br/><br/>
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif" width="55" alt="Bulbasaur" title="Bulbasaur" />
   &nbsp;
@@ -10,7 +10,7 @@
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif" width="55" alt="Eevee" title="Eevee" />
   <br/><br/>
   <h1>Billy Hernández</h1>
-  <strong>Web designer &amp; developer · Costa Rica 🇨🇷</strong>
+  <strong>Developer &amp; Ethical Hacking · Costa Rica 🇨🇷</strong>
   <br/><br/>
   I build landing pages and websites with <strong>Next.js</strong>, <strong>TypeScript strict</strong>, and <strong>Tailwind v4</strong>.<br/>
   Currently learning <strong>CCNP</strong> and tinkering with <strong>Linux + Raspberry Pi</strong>.
@@ -38,7 +38,7 @@
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" width="55" alt="Snorlax" title="Snorlax · Linux" />
 </div>
 
-## 📚 Currently learning
+## 🛰️ Also tinkering with
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=raspberrypi,tensorflow,godot" height="40" alt="side stack" />
@@ -87,31 +87,30 @@
   </tbody>
 </table>
 
-<sub>↳ Reemplazá los `#` por las URLs reales de tus repos.</sub>
+<sub>↳ Replace the `#` with your real repo URLs.</sub>
 
-</div>
-
-## 📫 Get in touch
-
-<div align="center">
-  <a href="https://linkedin.com/in/YOUR-USER"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="https://YOUR-SITE"><img src="https://img.shields.io/badge/Web-YOUR--SITE-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Web" /></a>
-  &nbsp;
-  <a href="mailto:hello@billyhz.dev"><img src="https://img.shields.io/badge/Email-hello%40billyhz.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 ---
 
 ## 📊 Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=billyhz&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=billyhz&theme=dark&hide_border=false" alt="GitHub streak" />
-  <br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=billyhz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
-</div>
+<table>
+  <tr>
+    <td valign="top" align="left" width="65%">
+      <img src="https://github-readme-stats.shion.dev/api?username=billyhz&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" />
+      <br/>
+      <img src="https://streak-stats.demolab.com/?user=billyhz&theme=dark&hide_border=false" alt="GitHub streak" />
+      <br/>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=billyhz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
+    </td>
+    <td valign="middle" align="center" width="35%">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/443.gif" width="110" alt="Garchomp" title="Garchomp" />
+      <br/><br/>
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/248.gif" width="110" alt="Tyranitar" title="Tyranitar" />
+    </td>
+  </tr>
+</table>
 
 ## 🎮 Current vibe
 

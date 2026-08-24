@@ -55,7 +55,7 @@
 ## 🚀 Featured projects
 
 <div align="center">
-
+<!---->
 <table>
   <thead>
     <tr>
@@ -86,10 +86,12 @@
     </tr>
   </tbody>
 </table>
-
+<!---->
 <sub>↳ Replace the `#` with your real repo URLs.</sub>
-
+<!---->
 </div>
+
+
 
 ---
 
@@ -115,7 +117,7 @@
 ## 🎮 Current vibe
 
 <div align="center">
-
+<!---->
 <table>
   <thead>
     <tr>
@@ -132,8 +134,10 @@
     </tr>
   </tbody>
 </table>
-
+<!---->
 </div>
+
+
 
 ---
 

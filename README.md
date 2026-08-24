@@ -2,48 +2,48 @@
 
 # Billy Hernández
 
-**Diseñador y desarrollador web · Costa Rica 🇨🇷**
+**Web designer & developer · Costa Rica 🇨🇷**
 
-Construyo landings y webs con **Next.js**, **TypeScript strict** y **Tailwind v4**.
-Ahora aprendiendo **CCNP** y trasteando con **Linux + Raspberry Pi**.
+I build landing pages and websites with **Next.js**, **TypeScript strict**, and **Tailwind v4**.
+Currently learning **CCNP** and tinkering with **Linux + Raspberry Pi**.
 
 </div>
 
 ---
 
-## 🧰 Stack principal
+## 🧰 Main stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,supabase,postgres,docker,linux,bash" height="48" alt="stack principal" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,supabase,postgres,docker,linux,bash" height="48" alt="main stack" />
 </div>
 
-## 🛰️ También trasteando con
+## 🛰️ Also tinkering with
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=raspberrypi,tensorflow,godot" height="40" alt="side stack" />
 </div>
 
-## 🚀 Proyectos destacados
+## 🚀 Featured projects
 
 <div align="center">
 
-| Proyecto | Qué es | Stack |
+| Project | What it is | Stack |
 |---|---|---|
 | **[StarTap](https://github.com/billyhz)** | Web studio | Next.js · TS · Tailwind |
-| **[Zentico](https://github.com/billyhz)** | Agencia · landings para clientes | Next.js · TS · Tailwind |
-| **[azuraCR](https://github.com/billyhz)** | Posts y marketing | HTML/CSS · AI |
+| **[Zentico](https://github.com/billyhz)** | Agency · client landings | Next.js · TS · Tailwind |
+| **[azuraCR](https://github.com/billyhz)** | Posts & marketing | HTML/CSS · AI |
 
-<sub>↳ Reemplazá los `#` por tus repos reales.</sub>
+<sub>↳ Replace the `#` with your real repo URLs.</sub>
 
 </div>
 
-## 📫 Contacto
+## 📫 Get in touch
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USER)
-[![Web](https://img.shields.io/badge/Web-TU--WEB-000?style=for-the-badge&logo=vercel&logoColor=white)](https://TU-WEB)
-[![Email](https://img.shields.io/badge/Email-hola%40billyhz.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hola@billyhz.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-USER)
+[![Web](https://img.shields.io/badge/Web-YOUR--SITE-000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-SITE)
+[![Email](https://img.shields.io/badge/Email-hello%40billyhz.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@billyhz.dev)
 
 </div>
 
@@ -62,9 +62,5 @@ Ahora aprendiendo **CCNP** y trasteando con **Linux + Raspberry Pi**.
 ## 🟡 Contribution graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BillyHz/BillyHz/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BillyHz/BillyHz/pacman-output/pacman-contribution-graph.svg?game=pacman">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BillyHz/BillyHz/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  </picture>
+  <img src="https://billyhz.github.io/BillyHz/pacman-contribution-graph.svg" alt="pacman contribution graph" />
 </div>

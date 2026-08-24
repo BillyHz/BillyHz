@@ -1,5 +1,7 @@
 <div align="center">
 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=45&lines=Construyendo+con+Next.js;Aprendiendo+CCNP+%F0%9F%93%9D;Durmiendo+como+Snorlax" alt="Typing SVG" />
+
 # Billy Hernández
 
 **Web designer & developer · Costa Rica 🇨🇷**
@@ -59,8 +61,13 @@ Currently learning **CCNP** and tinkering with **Linux + Raspberry Pi**.
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=billyhz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
 </div>
 
-## 🟡 Contribution graph
+## 🎮 Current vibe
 
 <div align="center">
-  <img src="https://billyhz.github.io/BillyHz/pacman-contribution-graph.svg" alt="pacman contribution graph" />
+
+| 😴 Resting | 👻 Mischief | ⚡ Vibing |
+|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" width="80" alt="Snorlax" /> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="80" alt="Gengar" /> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="80" alt="Pikachu" /> |
+| Like Snorlax | Gengar hours | Pikachu mode |
+
 </div>

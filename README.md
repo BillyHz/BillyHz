@@ -97,6 +97,8 @@
 
 ## 📊 Stats
 
+<div style="background-color: #1a1a1a; border: 2px solid #555; border-radius: 8px; padding: 12px;">
+<!---->
 <table>
   <tr>
     <td valign="top" align="left" width="55%">
@@ -107,50 +109,28 @@
       <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=billyhz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
     </td>
     <td valign="top" align="center" width="45%">
-
-      <div style="background-color: #1a1a1a; border: 2px solid #555; border-radius: 8px; padding: 12px; margin-bottom: 12px;">
-        <table>
-          <tr>
-            <td style="padding-right: 10px;">
-              <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/445.gif" width="80" alt="Garchomp" title="Garchomp" />
-            </td>
-            <td valign="middle" align="left">
-              <strong style="font-size: 1.05em;">Garchomp</strong>
-              <em style="color: #aaa;">  Lv. 76</em>
-              <div style="background-color: #333; height: 8px; width: 150px; border-radius: 4px; margin: 4px 0;">
-                <div style="background-color: #4caf50; width: 95%; height: 100%; border-radius: 4px;"></div>
-              </div>
-              <small style="color: #888;">HP 95%</small>
-              <br/>
-              <small>🐉 Dragon &nbsp; 🌍 Ground</small>
-            </td>
-          </tr>
-        </table>
-      </div>
-
-      <div style="background-color: #1a1a1a; border: 2px solid #555; border-radius: 8px; padding: 12px;">
-        <table>
-          <tr>
-            <td style="padding-right: 10px;">
-              <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/248.gif" width="80" alt="Tyranitar" title="Tyranitar" />
-            </td>
-            <td valign="middle" align="left">
-              <strong style="font-size: 1.05em;">Tyranitar</strong>
-              <em style="color: #aaa;">  Lv. 82</em>
-              <div style="background-color: #333; height: 8px; width: 150px; border-radius: 4px; margin: 4px 0;">
-                <div style="background-color: #4caf50; width: 100%; height: 100%; border-radius: 4px;"></div>
-              </div>
-              <small style="color: #888;">HP 100%</small>
-              <br/>
-              <small>🪨 Rock &nbsp; 🌑 Dark</small>
-            </td>
-          </tr>
-        </table>
-      </div>
-
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/445.gif" width="100" alt="Garchomp" title="Garchomp" />
+      <br/>
+      <strong>Garchomp</strong> <em>Lv. 76</em>
+      <br/>
+      <progress value="95" max="100" style="width: 140px; height: 10px;"></progress>
+      <br/>
+      <small>HP 95% · 🐉 Dragon &nbsp; 🌍 Ground</small>
+      <br/><br/>
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/248.gif" width="100" alt="Tyranitar" title="Tyranitar" />
+      <br/>
+      <strong>Tyranitar</strong> <em>Lv. 82</em>
+      <br/>
+      <progress value="100" max="100" style="width: 140px; height: 10px;"></progress>
+      <br/>
+      <small>HP 100% · 🪨 Rock &nbsp; 🌑 Dark</small>
     </td>
   </tr>
 </table>
+<!---->
+</div>
+
+
 
 ## 🎮 Current vibe
 

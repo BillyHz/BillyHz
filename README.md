@@ -38,7 +38,7 @@
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" width="55" alt="Snorlax" title="Snorlax · Linux" />
 </div>
 
-## 🛰️ Also tinkering with
+## 📚 Currently learning
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=raspberrypi,tensorflow,godot" height="40" alt="side stack" />

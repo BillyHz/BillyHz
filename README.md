@@ -1,16 +1,6 @@
 <div align="center">
-<!---->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=45&lines=Construyendo+con+Next.js;Aprendiendo+CCNP+%F0%9F%93%9D;Durmiendo+como+Snorlax" alt="Typing SVG" />
-<!---->
-# Billy Hernández
-<!---->
-**Web designer & developer · Costa Rica 🇨🇷**
-<!---->
-I build landing pages and websites with **Next.js**, **TypeScript strict**, and **Tailwind v4**.
-Currently learning **CCNP** and tinkering with **Linux + Raspberry Pi**.
-<!---->
-  <br/>
-<!---->
+  <br/><br/>
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif" width="55" alt="Bulbasaur" title="Bulbasaur" />
   &nbsp;
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/4.gif" width="55" alt="Charmander" title="Charmander" />
@@ -18,12 +8,15 @@ Currently learning **CCNP** and tinkering with **Linux + Raspberry Pi**.
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/7.gif" width="55" alt="Squirtle" title="Squirtle" />
   &nbsp;
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif" width="55" alt="Eevee" title="Eevee" />
-<!---->
+  <br/><br/>
+  <h1>Billy Hernández</h1>
+  <strong>Web designer &amp; developer · Costa Rica 🇨🇷</strong>
+  <br/><br/>
+  I build landing pages and websites with <strong>Next.js</strong>, <strong>TypeScript strict</strong>, and <strong>Tailwind v4</strong>.<br/>
+  Currently learning <strong>CCNP</strong> and tinkering with <strong>Linux + Raspberry Pi</strong>.
 </div>
 
-
-
----
+<hr/>
 
 ## 🧰 Main stack
 
@@ -62,32 +55,51 @@ Currently learning **CCNP** and tinkering with **Linux + Raspberry Pi**.
 ## 🚀 Featured projects
 
 <div align="center">
-<!---->
-| Project | Pokémon | What it is | Stack |
-|---|---|---|---|
-| **[StarTap](https://github.com/billyhz)** | 🔥 Charizard | Web studio | Next.js · TS · Tailwind |
-| **[Zentico](https://github.com/billyhz)** | 🧠 Mewtwo | Agency · client landings | Next.js · TS · Tailwind |
-| **[azuraCR](https://github.com/billyhz)** | 🎤 Jigglypuff | Posts & marketing | HTML/CSS · AI |
-<!---->
-<sub>↳ Replace the `#` with your real repo URLs.</sub>
-<!---->
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Pokémon</th>
+      <th>What it is</th>
+      <th>Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/billyhz"><strong>StarTap</strong></a></td>
+      <td align="center">🔥 Charizard</td>
+      <td align="center">Web studio</td>
+      <td align="center">Next.js · TS · Tailwind</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/billyhz"><strong>Zentico</strong></a></td>
+      <td align="center">🧠 Mewtwo</td>
+      <td align="center">Agency · client landings</td>
+      <td align="center">Next.js · TS · Tailwind</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/billyhz"><strong>azuraCR</strong></a></td>
+      <td align="center">🎤 Jigglypuff</td>
+      <td align="center">Posts &amp; marketing</td>
+      <td align="center">HTML/CSS · AI</td>
+    </tr>
+  </tbody>
+</table>
+
+<sub>↳ Reemplazá los `#` por las URLs reales de tus repos.</sub>
+
 </div>
-
-
 
 ## 📫 Get in touch
 
 <div align="center">
-<!---->
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/54.gif" width="40" alt="Psyduck" align="left" />
-<!---->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-USER)
-[![Web](https://img.shields.io/badge/Web-YOUR--SITE-000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-SITE)
-[![Email](https://img.shields.io/badge/Email-hello%40billyhz.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@billyhz.dev)
-<!---->
+  <a href="https://linkedin.com/in/YOUR-USER"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://YOUR-SITE"><img src="https://img.shields.io/badge/Web-YOUR--SITE-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Web" /></a>
+  &nbsp;
+  <a href="mailto:hello@billyhz.dev"><img src="https://img.shields.io/badge/Email-hello%40billyhz.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
-
-
 
 ---
 
@@ -104,25 +116,30 @@ Currently learning **CCNP** and tinkering with **Linux + Raspberry Pi**.
 ## 🎮 Current vibe
 
 <div align="center">
-<!---->
-| 😴 Resting | 👻 Mischief | ⚡ Vibing |
-|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" width="80" alt="Snorlax" /> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="80" alt="Gengar" /> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="80" alt="Pikachu" /> |
-| Like Snorlax | Gengar hours | Pikachu mode |
-<!---->
+
+<table>
+  <thead>
+    <tr>
+      <th>😴 Resting</th>
+      <th>👻 Mischief</th>
+      <th>⚡ Vibing</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" width="80" alt="Snorlax" /><br/><br/><strong>Like Snorlax</strong></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="80" alt="Gengar" /><br/><br/><strong>Gengar hours</strong></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="80" alt="Pikachu" /><br/><br/><strong>Pikachu mode</strong></td>
+    </tr>
+  </tbody>
+</table>
+
 </div>
-
-
 
 ---
 
 <div align="center">
-<!---->
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/149.gif" width="60" alt="Dragonite" title="Dragonite" />
-<!---->
   <br/>
-<!---->
   <sub>🐉 Gotta code 'em all.</sub>
-<!---->
 </div>
-

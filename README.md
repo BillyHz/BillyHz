@@ -1,24 +1,55 @@
-
 <div align="center">
 
-Hey 👋 What's Up?
+# Billy Hernández
 
-🛡️ DevSec · Costa Rica 🇨🇷
-Building StarTap — web studio · Next.js · TypeScript strict · Tailwind v4
+**Diseñador y desarrollador web · Costa Rica 🇨🇷**
+
+Construyo landings y webs con **Next.js**, **TypeScript strict** y **Tailwind v4**.
+Ahora aprendiendo **CCNP** y trasteando con **Linux + Raspberry Pi**.
 
 </div>
 
+---
 
-
-🧰 Tech Stack
+## 🧰 Stack principal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,bash,linux,react,nextjs,tailwind,js,supabase,mysql,docker,postgres,nodejs,raspberrypi,tensorflow,godot,typescript" height="60" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,supabase,postgres,docker,linux,bash" height="48" alt="stack principal" />
 </div>
 
+## 🛰️ También trasteando con
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=raspberrypi,tensorflow,godot" height="40" alt="side stack" />
+</div>
 
-📊 GitHub Stats
+## 🚀 Proyectos destacados
+
+<div align="center">
+
+| Proyecto | Qué es | Stack |
+|---|---|---|
+| **[StarTap](https://github.com/billyhz)** | Web studio | Next.js · TS · Tailwind |
+| **[Zentico](https://github.com/billyhz)** | Agencia · landings para clientes | Next.js · TS · Tailwind |
+| **[azuraCR](https://github.com/billyhz)** | Posts y marketing | HTML/CSS · AI |
+
+<sub>↳ Reemplazá los `#` por tus repos reales.</sub>
+
+</div>
+
+## 📫 Contacto
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USER)
+[![Web](https://img.shields.io/badge/Web-TU--WEB-000?style=for-the-badge&logo=vercel&logoColor=white)](https://TU-WEB)
+[![Email](https://img.shields.io/badge/Email-hola%40billyhz.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hola@billyhz.dev)
+
+</div>
+
+---
+
+## 📊 Stats
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=billyhz&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" />
@@ -28,9 +59,7 @@ Building StarTap — web studio · Next.js · TypeScript strict · Tailwind v4
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=billyhz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
 </div>
 
-
-
-🟡 Contribution Graph
+## 🟡 Contribution graph
 
 <div align="center">
   <picture>
@@ -38,14 +67,4 @@ Building StarTap — web studio · Next.js · TypeScript strict · Tailwind v4
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BillyHz/BillyHz/pacman-output/pacman-contribution-graph.svg?game=pacman">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BillyHz/BillyHz/pacman-output/pacman-contribution-graph.svg?game=pacman">
   </picture>
-</div>
-
-
-
-<div align="center">
-
-Visitors
-
-<sub>Proudly created with GPRM ( https://gprm.itsvg.in )</sub>
-
 </div>

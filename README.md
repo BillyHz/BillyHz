@@ -7,7 +7,7 @@
   &nbsp;
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif" width="55" alt="Eevee" title="Eevee" />
   <br/><br/>
-  <h1>Billy Hernández</h1>
+  <h1>BillyHz</h1>
   <strong>Software developer &amp; ethical hacking enthusiast · Costa Rica 🇨🇷</strong>
   <br/><br/>
   I build tools with <strong>Python</strong> and <strong>TypeScript</strong>, focused on <strong>cybersecurity</strong> and <strong>AI</strong>.<br/>

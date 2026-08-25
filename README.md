@@ -21,10 +21,6 @@
 ## 🧰 Main stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,supabase,postgres,docker,linux,bash" height="48" alt="main stack" />
-  <br/><br/>
-  <em>⚔️ My main team:</em>
-  <br/>
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif" width="55" alt="Mewtwo" title="Mewtwo · TypeScript" />
   &nbsp;
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="55" alt="Charizard" title="Charizard · Next.js" />
@@ -36,20 +32,20 @@
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="55" alt="Gengar" title="Gengar · Docker" />
   &nbsp;
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" width="55" alt="Snorlax" title="Snorlax · Linux" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,supabase,postgres,docker,linux,bash" height="48" alt="main stack" />
 </div>
 
 ## 🛰️ Also tinkering with
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=raspberrypi,tensorflow,godot" height="40" alt="side stack" />
-  <br/><br/>
-  <em>🧪 Side team:</em>
-  <br/>
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif" width="45" alt="Eevee" title="Eevee · Raspberry Pi" />
   &nbsp;
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/151.gif" width="45" alt="Mew" title="Mew · TensorFlow" />
   &nbsp;
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif" width="45" alt="Bulbasaur" title="Bulbasaur · Godot" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=raspberrypi,tensorflow,godot" height="40" alt="side stack" />
 </div>
 
 ## 🚀 Featured projects

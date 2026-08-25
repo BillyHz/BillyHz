@@ -18,40 +18,22 @@
 
 <hr/>
 
-## 🧰 Main stack
+##  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="55" alt="Charizard" title="Charizard · Main stack" /> Main stack
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif" width="55" alt="Mewtwo" title="Mewtwo · TypeScript" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="55" alt="Charizard" title="Charizard · Next.js" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="55" alt="Pikachu" title="Pikachu · React" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/39.gif" width="55" alt="Jigglypuff" title="Jigglypuff · Supabase" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="55" alt="Gengar" title="Gengar · Docker" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" width="55" alt="Snorlax" title="Snorlax · Linux" />
-  <br/><br/>
   <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,supabase,postgres,docker,linux,bash" height="48" alt="main stack" />
 </div>
 
-## 🛰️ Also tinkering with
+##  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif" width="55" alt="Eevee" title="Eevee · Also tinkering" /> Also tinkering with
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif" width="45" alt="Eevee" title="Eevee · Raspberry Pi" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/151.gif" width="45" alt="Mew" title="Mew · TensorFlow" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif" width="45" alt="Bulbasaur" title="Bulbasaur · Godot" />
-  <br/><br/>
   <img src="https://skillicons.dev/icons?i=raspberrypi,tensorflow,godot" height="40" alt="side stack" />
 </div>
 
-## 🚀 Featured projects
+##  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/149.gif" width="55" alt="Dragonite" title="Dragonite · Featured projects" /> Featured projects
 
 <div align="center">
-
+<!---->
 <table>
   <thead>
     <tr>
@@ -82,17 +64,19 @@
     </tr>
   </tbody>
 </table>
-
+<!---->
 <sub>↳ Replace the `#` with your real repo URLs.</sub>
-
+<!---->
 </div>
+
+
 
 ---
 
-## 📊 Stats
+##  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/445.gif" width="55" alt="Garchomp" title="Garchomp · Stats" /> Stats
 
 <div style="background-color: #1a1a1a; border: 2px solid #555; border-radius: 8px; padding: 12px;">
-
+<!---->
 <table>
   <tr>
     <td valign="top" align="left" width="55%">
@@ -121,13 +105,15 @@
     </td>
   </tr>
 </table>
-
+<!---->
 </div>
 
-## 🎮 Current vibe
+
+
+##  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" width="55" alt="Snorlax" title="Snorlax · Current vibe" /> Current vibe
 
 <div align="center">
-
+<!---->
 <table>
   <thead>
     <tr>
@@ -144,8 +130,10 @@
     </tr>
   </tbody>
 </table>
-
+<!---->
 </div>
+
+
 
 ---
 

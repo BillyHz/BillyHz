@@ -24,13 +24,13 @@
   <img src="https://skillicons.dev/icons?i=ts,py,nextjs,react,tailwind,nodejs,supabase,postgres,docker,linux,bash" height="48" alt="main stack" />
 </div>
 
-##  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif" width="55" alt="Eevee" title="Eevee · Currently learning" /> Currently learning
+##  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/9.gif" width="55" alt="Blastoise" title="Blastoise · Currently learning" /> Currently learning
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=raspberrypi,tensorflow,godot" height="40" alt="side stack" />
 </div>
 
-##  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/149.gif" width="55" alt="Dragonite" title="Dragonite · Featured projects" /> Featured projects
+##  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="55" alt="Gengar" title="Gengar · Featured projects" /> Featured projects
 
 <div align="center">
 <!---->
@@ -45,22 +45,22 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/billyhz"><strong>StarTap</strong></a></td>
+      <td align="center"><a href="https://github.com/billyhz"><strong>HexLauncher</strong></a></td>
       <td align="center">🔥 Charizard</td>
-      <td align="center">Web studio</td>
-      <td align="center">Next.js · TS · Tailwind</td>
+      <td align="center">Hex editor / launcher</td>
+      <td align="center">Python · Bash</td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/billyhz"><strong>Zentico</strong></a></td>
+      <td align="center"><a href="https://github.com/billyhz"><strong>FaceDetector</strong></a></td>
       <td align="center">🧠 Mewtwo</td>
-      <td align="center">Agency · client landings</td>
-      <td align="center">Next.js · TS · Tailwind</td>
+      <td align="center">AI face detection</td>
+      <td align="center">Python · OpenCV</td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/billyhz"><strong>azuraCR</strong></a></td>
+      <td align="center"><a href="https://github.com/billyhz"><strong>Bash Scripts pool</strong></a></td>
       <td align="center">🎤 Jigglypuff</td>
-      <td align="center">Posts &amp; marketing</td>
-      <td align="center">HTML/CSS · AI</td>
+      <td align="center">Bash script collection</td>
+      <td align="center">Bash · Linux</td>
     </tr>
   </tbody>
 </table>
@@ -75,9 +75,9 @@
 
 ##  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/445.gif" width="55" alt="Garchomp" title="Garchomp · Stats" /> Stats
 
-<div style="background-color: #1a1a1a; border: 2px solid #555; border-radius: 8px; padding: 12px;">
+<div style="background-color: #1a1a1a; border: 2px solid #555; border-radius: 8px; padding: 12px; text-align: center;">
 <!---->
-<table>
+<table align="center">
   <tr>
     <td valign="top" align="center">
       <img src="https://github-readme-stats.shion.dev/api?username=billyhz&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" />

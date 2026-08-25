@@ -21,10 +21,10 @@
 ##  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="55" alt="Charizard" title="Charizard · Main stack" /> Main stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,supabase,postgres,docker,linux,bash" height="48" alt="main stack" />
+  <img src="https://skillicons.dev/icons?i=ts,py,nextjs,react,tailwind,nodejs,supabase,postgres,docker,linux,bash" height="48" alt="main stack" />
 </div>
 
-##  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif" width="55" alt="Eevee" title="Eevee · Also tinkering" /> Also tinkering with
+##  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif" width="55" alt="Eevee" title="Eevee · Currently learning" /> Currently learning
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=raspberrypi,tensorflow,godot" height="40" alt="side stack" />
@@ -79,56 +79,14 @@
 <!---->
 <table>
   <tr>
-    <td valign="top" align="left" width="55%">
+    <td valign="top" align="center">
       <img src="https://github-readme-stats.shion.dev/api?username=billyhz&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" />
       <br/>
       <img src="https://streak-stats.demolab.com/?user=billyhz&theme=dark&hide_border=false" alt="GitHub streak" />
       <br/>
       <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=billyhz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
     </td>
-    <td valign="top" align="center" width="45%">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/445.gif" width="100" alt="Garchomp" title="Garchomp" />
-      <br/>
-      <strong>Garchomp</strong> <em>Lv. 76</em>
-      <br/>
-      <progress value="95" max="100" style="width: 140px; height: 10px;"></progress>
-      <br/>
-      <small>HP 95% · 🐉 Dragon &nbsp; 🌍 Ground</small>
-      <br/><br/>
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/248.gif" width="100" alt="Tyranitar" title="Tyranitar" />
-      <br/>
-      <strong>Tyranitar</strong> <em>Lv. 82</em>
-      <br/>
-      <progress value="100" max="100" style="width: 140px; height: 10px;"></progress>
-      <br/>
-      <small>HP 100% · 🪨 Rock &nbsp; 🌑 Dark</small>
-    </td>
   </tr>
-</table>
-<!---->
-</div>
-
-
-
-##  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" width="55" alt="Snorlax" title="Snorlax · Current vibe" /> Current vibe
-
-<div align="center">
-<!---->
-<table>
-  <thead>
-    <tr>
-      <th>😴 Resting</th>
-      <th>👻 Mischief</th>
-      <th>⚡ Vibing</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" width="80" alt="Snorlax" /><br/><br/><strong>Like Snorlax</strong></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="80" alt="Gengar" /><br/><br/><strong>Gengar hours</strong></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="80" alt="Pikachu" /><br/><br/><strong>Pikachu mode</strong></td>
-    </tr>
-  </tbody>
 </table>
 <!---->
 </div>

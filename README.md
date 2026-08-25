@@ -51,7 +51,7 @@
 ## 🚀 Featured projects
 
 <div align="center">
-<!---->
+
 <table>
   <thead>
     <tr>
@@ -82,19 +82,17 @@
     </tr>
   </tbody>
 </table>
-<!---->
+
 <sub>↳ Replace the `#` with your real repo URLs.</sub>
-<!---->
+
 </div>
-
-
 
 ---
 
 ## 📊 Stats
 
 <div style="background-color: #1a1a1a; border: 2px solid #555; border-radius: 8px; padding: 12px;">
-<!---->
+
 <table>
   <tr>
     <td valign="top" align="left" width="55%">
@@ -123,15 +121,13 @@
     </td>
   </tr>
 </table>
-<!---->
+
 </div>
-
-
 
 ## 🎮 Current vibe
 
 <div align="center">
-<!---->
+
 <table>
   <thead>
     <tr>
@@ -148,10 +144,8 @@
     </tr>
   </tbody>
 </table>
-<!---->
+
 </div>
-
-
 
 ---
 

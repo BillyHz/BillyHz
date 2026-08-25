@@ -31,7 +31,7 @@
 ##  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="55" alt="Gengar" title="Gengar · Featured projects" /> Featured projects
 
 <div align="center">
-
+<!---->
 <table>
   <thead>
     <tr>
@@ -58,15 +58,17 @@
     </tr>
   </tbody>
 </table>
-
+<!---->
 </div>
+
+
 
 ---
 
 ##  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/445.gif" width="55" alt="Garchomp" title="Garchomp · Stats" /> Stats
 
 <div style="background-color: #1a1a1a; border: 2px solid #555; border-radius: 8px; padding: 12px; text-align: center;">
-
+<!---->
 <table align="center">
   <tr>
     <td valign="top" align="center">
@@ -78,19 +80,39 @@
     </td>
   </tr>
 </table>
-
+<!---->
 </div>
+
+
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=45&lines=Building+like+Conkeldurr;Learning+like+Alakazam;Sleeping+like+Snorlax" alt="Typing SVG" />
-  <br/><br/>
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/534.gif" width="55" alt="Conkeldurr" title="Building like Conkeldurr" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif" width="45" alt="Bulbasaur" title="Bulbasaur" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/65.gif" width="55" alt="Alakazam" title="Learning like Alakazam" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/4.gif" width="45" alt="Charmander" title="Charmander" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" width="55" alt="Snorlax" title="Sleeping like Snorlax" />
-  <br/><br/>
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/248.gif" width="60" alt="Tyranitar" title="Tyranitar" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/7.gif" width="45" alt="Squirtle" title="Squirtle" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="45" alt="Pikachu" title="Pikachu" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif" width="45" alt="Eevee" title="Eevee" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="45" alt="Charizard" title="Charizard" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/9.gif" width="45" alt="Blastoise" title="Blastoise" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="45" alt="Gengar" title="Gengar" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/65.gif" width="45" alt="Alakazam" title="Alakazam" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif" width="45" alt="Mewtwo" title="Mewtwo" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/445.gif" width="45" alt="Garchomp" title="Garchomp" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" width="45" alt="Snorlax" title="Snorlax" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/248.gif" width="45" alt="Tyranitar" title="Tyranitar" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/534.gif" width="45" alt="Conkeldurr" title="Conkeldurr" />
 </div>
